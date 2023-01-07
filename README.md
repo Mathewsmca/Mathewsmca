@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mathew sebastian</h1>
+<h1 align="center">Hi 👋, I'm Mathew Sebastian</h1>
 <h3 align="center"> Iam a MCA student at Amal jyothi College Of Engineering,Kottayam.</h3>
 
 <br>
